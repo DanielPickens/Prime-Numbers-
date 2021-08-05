@@ -14,7 +14,7 @@ function display(n) {
             arr.push(i);
         }
     }
-    console.log(arr); // use arr result on your own
+    console.log(arr); 
 }
 
 display(100);
